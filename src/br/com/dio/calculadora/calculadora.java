@@ -20,9 +20,9 @@ public class calculadora {
 		int multiplicacao = multiplicacao(a, b);
 		int divisao = divisao(a, b);
 		
-		System.out.println("soma" + soma);
-		System.out.println("subtracao" + subtracao);
-		System.out.println("multiplicao" + multiplicacao);
+		System.out.println("soma " + soma);
+		System.out.println("subtracao " + subtracao);
+		System.out.println("multiplicao " + multiplicacao);
 		System.out.println("divisao" + divisao);
 		
 		
